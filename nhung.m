@@ -70,6 +70,7 @@ else
 end
 end
 
+plot(V,I,T)
 
 
 
