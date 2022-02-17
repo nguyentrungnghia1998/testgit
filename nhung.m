@@ -72,7 +72,7 @@ end
 
 plot(V,I,T)
 
-
+chapakachi :v
 
 
 
